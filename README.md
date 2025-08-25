@@ -73,8 +73,8 @@ Cross-platform chat app with **React Native + Firebase**.
 ---
 
 ## 📫 Connect With Me  
-- 🌐 Portfolio: [dheerajgowda.dev](https://dheerajgowda.dev)  
-- 💼 LinkedIn: [linkedin.com/in/dheerajgowda](https://linkedin.com/in/dheerajgowda)  
+- 🌐 Portfolio: [dheerajgowda.dev](https://dheerajgowda.vercel.app/)  
+- 💼 LinkedIn: [linkedin.com/in/dheerajgowda](https://www.linkedin.com/in/dheeraj164/)  
 - 🖥️ GitHub: [github.com/Dheeraj164](https://github.com/Dheeraj164)  
 - ✉️ Email: dheerajkrgowda@gmail.com  
 
