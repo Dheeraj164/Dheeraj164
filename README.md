@@ -56,7 +56,7 @@ Web app using **Flask + React.js + LSTM** for financial data analysis.
 
 ---
 
-### 🔹 [Real-Time Chat App](https://github.com/Dheeraj164/chatapp.github.io)  
+### 🔹 [Real-Time Chat App](https://github.com/Dheeraj164/ChatApp-using-Flutter.git)  
 Cross-platform chat app with **React Native + Firebase**.  
 - 🔔 Push notifications, typing indicators, read receipts  
 - 📱 Works across multiple devices  
