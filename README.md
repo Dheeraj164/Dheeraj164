@@ -1,80 +1,71 @@
-## Hi there 👋
 
-<!--
-**Dheeraj164/Dheeraj164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi, I'm Dheeraj Kumar Ravi Gowda  
-
-🚀 **Full-Stack Software Engineer** specializing in **React, TypeScript, Node.js, and Real-Time Applications**.  
-🎓 MS in Computer Science @ University of Central Oklahoma (Dec 2024).  
-💡 Passionate about building **scalable, interactive, and user-first products**.  
+# Hi, I’m **Dheeraj Kumar Ravi Gowda** 👋  
+**Full-Stack Software Engineer** • React, TypeScript, Node.js, Real-Time Apps  
+MS in Computer Science — University of Central Oklahoma (Dec 2024)
 
 ---
 
-## 🛠️ Tech Stack  
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+## 🔭 About me
+I build user-first web and mobile products with a focus on performance, reusability and great UX. I specialize in front-end development using **React / Next.js / TypeScript** and mobile apps with **React Native / Expo**. I’m also expanding my backend and realtime skills using **Node.js**, **Supabase/Firebase**, and WebSockets for low-latency experiences.
 
 ---
 
-## 📌 Featured Projects  
+## 🛠️ Tech stack
 
-### 🔹 [Expense Tracker App](https://github.com/Dheeraj164/React-Native-Expense-Tracker)  
-Mobile app built with **React Native + Supabase** for tracking expenses.  
-- 📊 Interactive charts & filters  
-- ☁️ Supabase backend for auth & storage  
-- ⚡ CI/CD with Expo Application Services  
-
----
-
-### 🔹 [Stock Visualization & Prediction](https://github.com/Dheeraj164/Stock_Visualization_React_PythonFlask)  
-Web app using **Flask + React.js + LSTM** for financial data analysis.  
-- 📈 Real-time charting with historical overlays  
-- 🤖 LSTM model for trend prediction  
-- 🐳 Containerized with Docker, deployed on AWS  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML, CSS, JavaScript  
+**Mobile:** React Native, Expo, Flutter, Android, iOS  
+**Backend & Realtime:** Node.js, Express, Firebase, Supabase, WebSockets  
+**Data & Cloud:** PostgreSQL, MongoDB, MySQL, AWS, Docker  
+**Tools:** Git, GitHub, VS Code, Figma, CI/CD (EAS / GitHub Actions)
 
 ---
 
-### 🔹 [Real-Time Chat App](https://github.com/Dheeraj164/ChatApp-using-Flutter.git)  
-Cross-platform chat app with **Flutter + Firebase**.  
-- 🔔 Push notifications, typing indicators, read receipts  
-- 📱 Works across multiple devices  
-- ⚡ Sub-100ms latency  
+## 📌 Featured Projects
+
+### Expense Tracker App — *React Native + Supabase*
+- Mobile app for tracking expenses with offline-first UX and cloud sync.
+- Real-time expense listing, charts and categories.
+- Auth and storage handled by Supabase; CI/CD with Expo Application Services.
+
+### Stock Visualization & Prediction — *Flask + React + LSTM*
+- Web app with historical overlays and interactive charts.
+- LSTM model for trend estimation; containerized with Docker and deployed to AWS.
+
+### Real-Time Chat App — *Flutter + Firebase*
+- Cross-platform chat with push notifications, typing indicators and read receipts.
+- Optimized for sub-100ms message latency on average.
+
+> See pinned repos for code, live demos and technical write-ups.
 
 ---
 
-## 🎓 Certifications & Achievements  
+## 💼 Experience (high level)
+- **Full Stack Developer** — The Donovan’s Venom (Remote)  
+  Built internal dashboards & client portals, improved UI performance and accessibility.
+
+- **Front-End Developer** — 6D Technologies (Bengaluru)  
+  Modernized company site with Next.js, implemented feature gating & payment integrations.
+
+- **Teaching Assistant / Tutor** — University of Central Oklahoma  
+  Supported Frontend & Mobile courses; tutored students in Java, Python, OOP and data structures.
+
+---
+
+## 🎓 Certifications & Achievements
 - AWS Educate: Cloud 101, ML Foundations  
-- React Native – Udemy (2024)  
-- Flutter Apps Development – UCO  
-- President’s Honor Roll – UCO (2023–2024)  
+- React Native — Udemy (2024)  
+- Flutter Apps Development — UCO  
+- President’s Honor Roll — UCO (2023–2024)
 
 ---
 
-## 📫 Connect With Me  
-- 🌐 Portfolio: [dheerajgowda.dev](https://dheerajgowda.vercel.app/)  
-- 💼 LinkedIn: [linkedin.com/in/dheerajgowda](https://www.linkedin.com/in/dheeraj164/)  
-- 🖥️ GitHub: [github.com/Dheeraj164](https://github.com/Dheeraj164)  
-- ✉️ Email: dheerajkrgowda@gmail.com  
+## 📫 Connect
+- Portfolio: https://dheerajgowda.dev  
+- LinkedIn: https://linkedin.com/in/dheerajgowda  
+- GitHub: https://github.com/Dheeraj164  
+- Email: dheerajkrgowda@gmail.com
 
+---
+
+## ⚡ Want to collaborate?
+I’m open to freelance contracts, short-term gigs, and full-time roles that let me build meaningful, scalable products. If you have a project or role that fits, send me a message on LinkedIn or an email.
