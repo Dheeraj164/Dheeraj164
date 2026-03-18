@@ -19,7 +19,7 @@ A real-time multi-device screen extension system using WebRTC.
 * Built with React Native, Electron, WebRTC, Firebase
 
 🔗 GitHub: [Link](https://github.com/Dheeraj164/secondScreen)
-🎥 Demo: [(Video)](https://youtu.be/damvIBe9CPk)
+🎥 Demo: [Link](https://youtu.be/damvIBe9CPk)
 📖 CaseStudy: [Link](https://dheerajgowda.vercel.app/secondscreen)
 
 
@@ -34,8 +34,8 @@ A scalable serverless web application for tracking and managing personal expense
 * Real-time expense tracking with efficient backend architecture
 * Deployed using serverless framework for scalability and cost efficiency
 
-🔗 GitHub: [github](https://github.com/Dheeraj164/ExpenseTrackerAWS)
-🎥 Demo: [(Video)](https://youtu.be/CHaWlLaYqrI)
+🔗 GitHub: [Link](https://github.com/Dheeraj164/ExpenseTrackerAWS)
+🎥 Demo: [Link](https://youtu.be/CHaWlLaYqrI)
 📖 CaseStudy: [Link](https://dheerajgowda.vercel.app/awsexpense)
 
 ---
@@ -76,9 +76,9 @@ Firebase • REST APIs • Git • Expo
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: https://dheerajgowda.vercel.app/
-💼 LinkedIn: https://www.linkedin.com/in/dheeraj164/
-📧 Email: gowda.dheeraj164@gmail.com
+🌐 Portfolio: [Link](https://dheerajgowda.vercel.app/)
+💼 LinkedIn: [Link](https://www.linkedin.com/in/dheeraj164/)
+📧 Email: [Link](gowda.dheeraj164@gmail.com)
 
 ---
 
