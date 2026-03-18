@@ -78,7 +78,7 @@ Firebase • REST APIs • Git • Expo
 
 🌐 Portfolio: [Link](https://dheerajgowda.vercel.app/)
 💼 LinkedIn: [Link](https://www.linkedin.com/in/dheeraj164/)
-📧 Email: [Link](gowda.dheeraj164@gmail.com)
+📧 Email: [Link](mailto:gowda.dheeraj164@gmail.com)
 
 ---
 
